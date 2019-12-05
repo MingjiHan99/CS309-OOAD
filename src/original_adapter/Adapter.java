@@ -28,4 +28,14 @@ public class Adapter implements FileOperateInterfaceV2 {
     public void writeByPeopleId(List<StaffModel> list) {
         this.listAllStaff(list);
     }
+
+    @Override
+    public void addNewStaff(List<StaffModel> list) {
+
+    }
+
+    @Override
+    public void removeStaffByMaxPeopleId(List<StaffModel> list) {
+
+    }
 }

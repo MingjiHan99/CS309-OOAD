@@ -10,4 +10,7 @@ public interface FileOperateInterfaceV2 {
     void writeByName(List<StaffModel> list);
 
     void writeByPeopleId(List<StaffModel> list);
+
+    void addNewStaff(List<StaffModel> list);
+    void removeStaffByMaxPeopleId(List<StaffModel> list);
 }
