@@ -1,0 +1,44 @@
+110; Joseph, SIFAKIS; Distinguished Professor; http://cse.sustech.edu.cn/en/people/view/people_id/110/sort_id/9/pid/
+1; YAO, Xin; Department Head; http://cse.sustech.edu.cn/en/people/view/people_id/1/sort_id/9/pid/
+95; YANG, Shuanghua; Chair Professor; http://cse.sustech.edu.cn/en/people/view/people_id/95/sort_id/9/pid/
+2; THEODOROPOULOS, Georgios ; Chair Professor; http://cse.sustech.edu.cn/en/people/view/people_id/2/sort_id/9/pid/
+3; SHI, Yuhui; Chair Professor; http://cse.sustech.edu.cn/en/people/view/people_id/3/sort_id/9/pid/
+55; ISHIBUCHI, Hisao; Chair Professor; http://cse.sustech.edu.cn/en/people/view/people_id/55/sort_id/9/pid/
+112; LIU, Jiang; Professor; http://cse.sustech.edu.cn/en/people/view/people_id/112/sort_id/9/pid/
+71; TANG, Ke; Professor; http://cse.sustech.edu.cn/en/people/view/people_id/71/sort_id/9/pid/
+117; ZHANG, Jianguo; Professor; http://cse.sustech.edu.cn/en/people/view/people_id/117/sort_id/9/pid/
+99; CHENG, Jingde; Teaching Professor; http://cse.sustech.edu.cn/en/people/view/people_id/99/sort_id/9/pid/
+5; HAO, Qi ; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/5/sort_id/9/pid/
+6; LUO, Zongwei; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/6/sort_id/9/pid/
+109; SONG, Xuan; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/109/sort_id/9/pid/
+113; ZHANG, Yu; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/113/sort_id/9/pid/
+114; WEI, Xuetao; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/114/sort_id/9/pid/
+115; ZHANG, Fengwei; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/115/sort_id/9/pid/
+116; YU, Shiqi; Associate Professor; http://cse.sustech.edu.cn/en/people/view/people_id/116/sort_id/9/pid/
+8; ZHANG, Jin; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/8/sort_id/9/pid/
+7; WANG, Qi; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/7/sort_id/9/pid/
+54; ZHANG, Yuqun; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/54/sort_id/9/pid/
+61; TANG, Bo; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/61/sort_id/9/pid/
+63; LIU, Sze-Yeung Elvis ; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/63/sort_id/9/pid/
+68; GHANDAR, Adam; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/68/sort_id/9/pid/
+98; TAN, Shin Hwei; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/98/sort_id/9/pid/
+75; LIU, Yepang; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/75/sort_id/9/pid/
+100; CHENG,Ran; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/100/sort_id/9/pid/
+103; ROSSI, Luca; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/103/sort_id/9/pid/
+106; Zheng, Feng; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/106/sort_id/9/pid/
+104; ASHERALIEVA, Alia; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/104/sort_id/9/pid/
+108; YU, Jianqiao; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/108/sort_id/9/pid/
+111; KO, Tom; Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/111/sort_id/9/pid/
+94; DING, Yulong; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/94/sort_id/9/pid/
+57; YUAN, Bo; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/57/sort_id/9/pid/
+91; YANG, Peng; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/91/sort_id/9/pid/
+96; LIU, Jialin; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/96/sort_id/9/pid/
+107; LU, Xiaofen; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/107/sort_id/9/pid/
+118; HU, Yan; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/118/sort_id/9/pid/
+119; ; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/119/sort_id/9/pid/
+120; ADAM, Lukáš; Research Assistant Professor; http://cse.sustech.edu.cn/en/people/view/people_id/120/sort_id/9/pid/
+64; HU, Chunfeng; Teaching Laboratory Technician; http://cse.sustech.edu.cn/en/people/view/people_id/64/sort_id/9/pid/
+65; ZHAO, Yao; Teaching Laboratory Technician; http://cse.sustech.edu.cn/en/people/view/people_id/65/sort_id/9/pid/
+66; ZHU, Yueming; Teaching Laboratory Technician; http://cse.sustech.edu.cn/en/people/view/people_id/66/sort_id/9/pid/
+67; WANG, Wei; Teaching Laboratory Technician; http://cse.sustech.edu.cn/en/people/view/people_id/67/sort_id/9/pid/
+102; SHEN, Yun; Teaching Laboratory Technician; http://cse.sustech.edu.cn/en/people/view/people_id/102/sort_id/9/pid/
